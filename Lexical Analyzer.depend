@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1497986266 source:c:\users\shahadul alam\documents\codeblocks projects\lexical analyzer\main.c
+	"utility.h"
+	"tokentype.h"
+
+1497983567 source:c:\users\shahadul alam\documents\codeblocks projects\lexical analyzer\tokentype.c
+	"tokentype.h"
+
+1497981404 c:\users\shahadul alam\documents\codeblocks projects\lexical analyzer\tokentype.h
+	"utility.h"
+
+1497984536 c:\users\shahadul alam\documents\codeblocks projects\lexical analyzer\utility.h
+	<stdio.h>
+
+1497985701 source:c:\users\shahadul alam\documents\codeblocks projects\lexical analyzer\utility.c
+	"utility.h"
+
+1497986266 source:c:\users\shahadul alam\documents\github repositories\lexical-analyzer\main.c
+	"utility.h"
+	"tokentype.h"
+
+1497984536 c:\users\shahadul alam\documents\github repositories\lexical-analyzer\utility.h
+	<stdio.h>
+
+1497981404 c:\users\shahadul alam\documents\github repositories\lexical-analyzer\tokentype.h
+	"utility.h"
+
+1497983567 source:c:\users\shahadul alam\documents\github repositories\lexical-analyzer\tokentype.c
+	"tokentype.h"
+
+1497985701 source:c:\users\shahadul alam\documents\github repositories\lexical-analyzer\utility.c
+	"utility.h"
+

@@ -1,0 +1,17 @@
+int 5 + 12.34534 = a1$-;
+real x;
+a = a1$- - 5;
+b = "NSU";
+p1 = (5 + 2);
+$-b7 = " 2 + 5 + this is a string () {} 
+
+multi-line string...
+
+";
+
+\ ' $ .;
+
+char ch = 'h';
+
+if x == 0
+	return x;
